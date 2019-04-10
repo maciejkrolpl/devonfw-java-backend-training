@@ -13,4 +13,6 @@ public abstract class AbstractComponentFacade extends AbstractLogic {
     super();
   }
 
+
+
 }
